@@ -1,5 +1,4 @@
-g++ main.cpp
-./a.out
+starting number,steps
 1,0
 2,1
 3,7

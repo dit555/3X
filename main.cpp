@@ -32,6 +32,7 @@ int main(){
 
 	struct Num n;
 	curr_max = 0;
+	cout << "starting number,steps" << endl;
 	for (int i = 1; i <= 113382; i++){ 
 		n.start = i;
 		n.cur = n.start;
